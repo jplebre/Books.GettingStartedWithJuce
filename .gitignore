@@ -55,3 +55,7 @@ xcuserdata
 *.exe
 *.out
 *.app
+
+# Do not ignore files inside Packages
+!packages/*
+!packages/juce-grapefruit-osx/*
